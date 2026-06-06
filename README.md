@@ -50,3 +50,11 @@ Ese resultado significa que el proyecto base **compila y está listo para usar**
 - No agregar librerías externas.
 - No modificar los tests para ocultar fallos.
 - Implementar la solución dentro de `src/`.
+
+## Entrega
+
+Fork del proyecto: [HugoX2024/final_project_compiler](https://github.com/HugoX2024/final_project_compiler.git)
+
+## Evidencia de tests
+
+![Captura de tests](docs/test-results.png)
